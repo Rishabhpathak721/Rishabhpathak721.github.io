@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    text-align: center;
+    /* background-color: black; */
+}
+#header{
+
+    color: black;
+    background-color: #00b36b;
+    height: 50px;
+    position: relative;
+}
+#footer{
+
+    color: black;
+    background-color: #00b36b;
+    height: 50px;
+    margin-top: 660px;
+}
